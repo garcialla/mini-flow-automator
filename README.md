@@ -11,11 +11,11 @@
 O **Mini Flow Automator** é uma aplicação web que permite montar fluxos automáticos sem precisar programar.  
 Com ele, é possível:
 
-- Criar **gatilhos** (triggers) para iniciar o fluxo:  
+Criar **gatilhos** (triggers) para iniciar o fluxo:  
   - **Webhook** → recebe dados externos via POST  
   - **Intervalo** → executa de X em X segundos  
 
-- Configurar **etapas** (steps) do fluxo:  
+Configurar **etapas** (steps) do fluxo:  
   -  **http_request** → consome APIs externas  
   -  **transform** → processa dados com snippets JavaScript  
   -  **delay** → pausa a execução  
@@ -97,5 +97,5 @@ Para detalhes sobre **dependências, .gitignore, estrutura e passo a passo para 
 
 ---
 
-## 📝 Licença
+##  Licença
 MIT – livre para usar, modificar e publicar.  
